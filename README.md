@@ -1,6 +1,6 @@
 # DerivativeSolver
 This task was assigned by my AP Calculus teacher, who challenged me to satisfy the following criteria:
-1. Find ddistinct integers for a, b, c, and d ranging from 1 to 9.
+1. Find distinct integers for a, b, c, and d ranging from 1 to 9.
 2. For the function h(x) = (ax + b) * (cx + d), the derivative at x = 0, should be 24.
 3. For the function j(x) = (ax + b) / (cx + d), the derivative at x = 0, should be 3.
 
