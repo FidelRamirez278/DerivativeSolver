@@ -1,6 +1,4 @@
 # DerivativeSolver
-This Java program is a brute force solution to a specific mathematical problem. It seeks four distinct integers (a, b, c, d) from 1 to 9 that satisfy certain conditions related to the derivatives of two functions at x = 0.
-
 This task was assigned by my AP Calculus teacher, who challenged me to satisfy the following criteria:
 1. Find ddistinct integers for a, b, c, and d ranging from 1 to 9.
 2. For the function h(x) = (ax + b) * (cx + d), the derivative at x = 0, should be 24.
